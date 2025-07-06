@@ -18,9 +18,11 @@ An admin dashboard with decoupled frontend and backend architecture.
   - Shadcn UI - for beautiful, accessible components
 - **State Management:** Zustand
 - **Routing:** React Router v7
+- **Form Handling:**
+  - ReactHookForm - for form handling
+  - Zod - for form validation
 - **Data Management:**
   - React Query - for server state
-  - React Hook Form - for form handling
 
 ## 📱 Mobile Applications
 
